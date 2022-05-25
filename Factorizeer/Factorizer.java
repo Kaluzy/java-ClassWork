@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Factorizer {
-    public static void main(String[] args){
+    public  void factorize(){
 
         // receives integer value from user
         Scanner sc = new Scanner(System.in);
